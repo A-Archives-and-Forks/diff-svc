@@ -1,5 +1,8 @@
 # Diff-SVC
-Singing Voice Conversion via diffusion model
+Singing Voice Conversion via diffusion models
+It converts input singing voices into a target timbre and supports basic pitch correction.
+
+
 
 ## updates:
 >2022.12.4 正式提供对44.1kHz的支持\
@@ -53,6 +56,10 @@ This project has been trained and tested on many datasets. You can download the 
 For English support, you can join this discord: 
 
 [![Discord](https://img.shields.io/discord/1044927142900809739?color=%23738ADB&label=Discord&style=for-the-badge)](https://discord.gg/jvA5c2xzSE)
+### Project status
+This project is no longer actively maintained by the original author.  
+However, it continues to be developed and used by the community through forks.
+For the latest updates and community support, please refer to the Discord server above.
 
 ## Acknowledgements
 >项目基于[diffsinger](https://github.com/MoonInTheRiver/DiffSinger)、[diffsinger(openvpi维护版)](https://github.com/openvpi/DiffSinger)、[soft-vc](https://github.com/bshall/soft-vc)开发.\
